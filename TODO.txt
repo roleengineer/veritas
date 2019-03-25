@@ -1,0 +1,2 @@
+1.Change skill data type to array
+2. Add to RoleOwnership Openzeppelin current interface and add new features, functionality 
